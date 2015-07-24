@@ -1,0 +1,3 @@
+# gogination
+
+auto create pagination
